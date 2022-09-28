@@ -1,0 +1,39 @@
+body {
+    background-image: url("th.jpg");
+    background-size: cover;
+    margin: 0;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    color: black;
+}
+
+span {
+    border: 3px solid black;
+    padding: 4px;
+    margin: auto;
+    color: white;
+    background: black;
+    font-family: 'Cursed Timer ULiL';
+    color: red;
+}
+
+button {
+    margin: 10px 0;
+    background: red;
+    color: white;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: auto;
+    padding: 2px 4px;
+}
+
+h3 {
+    background: gray;
+    margin: 10px;
+    padding: 10px;
+}
